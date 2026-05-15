@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alorun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-api.vercel.app/api/top-langs/?username=Alorun&layout=compact)
 
 
 ![](https://raw.githubusercontent.com/Alorun/Alorun/refs/heads/output/github-contribution-grid-snake.svg)
